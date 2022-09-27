@@ -1,0 +1,1 @@
+create database latihan_join_relation;

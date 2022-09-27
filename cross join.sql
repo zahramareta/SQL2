@@ -1,0 +1,1 @@
+select * from karyawan cross join departemen;
